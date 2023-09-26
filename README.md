@@ -4,7 +4,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Microsoft Teams Integration for Message Retrieval</title>
+   <h2>Using Microsoft Graph Explorer</h2>
+<p>Microsoft Graph Explorer is a valuable tool for testing and interacting with the Microsoft Graph API, which is used to retrieve data from Microsoft Teams. Here's how you can use it for a successful integration:</p>
+
+<ol>
+    <li>Visit the <a href="https://developer.microsoft.com/en-us/graph/graph-explorer" target="_blank">Microsoft Graph Explorer</a> website.</li>
+    <li>Sign in with your Microsoft 365 or Azure AD credentials.</li>
+    <li>Under "Select an operation," choose the appropriate API endpoint for Microsoft Teams, such as "List messages in chat" or "Search for messages."</li>
+    <li>Authorize the application to access your Microsoft Teams data.</li>
+    <li>Set any required parameters, such as the chat ID or search query.</li>
+    <li>Click the "Run Query" button to make a test request to the Microsoft Teams API.</li>
+    <li>Review the response to ensure that it returns the expected data.</li>
+</ol>
+
+<p>
 </head>
 <body>
     <h1>Microsoft Teams Integration for Message Retrieval</h1>
