@@ -25,7 +25,7 @@
     </ol>
     <h2>Integration Code</h2>
     <p>The integration code and detailed setup instructions can be found in the GitHub repository:</p>
-    <p><a href="https://github.com/your-username/teams-message-retrieval" target="_blank">GitHub Repository</a></p>
+    <p><a href="[https://github.com/your-username/teams-message-retrieval](https://github.com/omar3anan/Microsoft-Teams-Integration)" target="_blank">GitHub Repository</a></p>
     <h2>Example Usage</h2>
     <p>Here's an example of how you can use this integration:</p>
     <pre>
