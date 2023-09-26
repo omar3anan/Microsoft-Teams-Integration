@@ -20,7 +20,7 @@
 <p>
 </head>
 <body>
-    <h1>Microsoft Teams Integration for Message Retrieval</h1>
+    <h1>Microsoft Teams Integration for Message Retrieval </h1>
     <p>This integration allows you to retrieve chat messages from Microsoft Teams and search for technical keywords within those messages.</p>
     <h2>Instructions</h2>
     <ol>
